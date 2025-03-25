@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Ganesh-portfolio/static/css/main.0f67310f.css",
+    "main.js": "/Ganesh-portfolio/static/js/main.8439d6ab.js",
+    "static/media/computer_vision.jpeg": "/Ganesh-portfolio/static/media/computer_vision.97121622d8d2eed25544.jpeg",
+    "static/media/object_detection.jpeg": "/Ganesh-portfolio/static/media/object_detection.47b14d21f3ce5f87c036.jpeg",
+    "static/media/Database_Admistration.jpeg": "/Ganesh-portfolio/static/media/Database_Admistration.b16f12e133bfbf8192f8.jpeg",
+    "static/media/new_bg.jpeg": "/Ganesh-portfolio/static/media/new_bg.88789a8229afa8d130a0.jpeg",
+    "static/media/VEEV.png": "/Ganesh-portfolio/static/media/VEEV.9cac6fbfc8ca84f18723.png",
+    "static/media/Azure.jpeg": "/Ganesh-portfolio/static/media/Azure.ccaa7776e1fc016eb302.jpeg",
+    "static/media/HTML5.png": "/Ganesh-portfolio/static/media/HTML5.2cd5d05c9660ec55992e.png",
+    "static/media/Photoshop.jpeg": "/Ganesh-portfolio/static/media/Photoshop.d3cbac90df620df4a122.jpeg",
+    "static/media/Bootstrap.png": "/Ganesh-portfolio/static/media/Bootstrap.7ec629589d73f8a028c5.png",
+    "static/media/Javascript.jpeg": "/Ganesh-portfolio/static/media/Javascript.80ed8c5999b325d40b8e.jpeg",
+    "static/media/AI_ML.jpeg": "/Ganesh-portfolio/static/media/AI_ML.48ce2f596901c66e2327.jpeg",
+    "static/media/React.jpeg": "/Ganesh-portfolio/static/media/React.acb539f0514b4b78afe3.jpeg",
+    "static/media/linkedin.png": "/Ganesh-portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/js.png": "/Ganesh-portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/React.png": "/Ganesh-portfolio/static/media/React.98ff38735baa4c1b0381.png",
+    "index.html": "/Ganesh-portfolio/index.html",
+    "main.0f67310f.css.map": "/Ganesh-portfolio/static/css/main.0f67310f.css.map",
+    "main.8439d6ab.js.map": "/Ganesh-portfolio/static/js/main.8439d6ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f67310f.css",
+    "static/js/main.8439d6ab.js"
+  ]
+}
