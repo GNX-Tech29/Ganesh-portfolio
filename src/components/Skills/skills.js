@@ -10,7 +10,7 @@ import { fadeIn } from "../../variant";
 const Skills = () => {
   return (
     <section id="skills">
-      <span className="skillTitle">About Me</span>
+      <span className="skillTitle">About Mee</span>
       <p className="introTextpara">
         I am a skilled and passionate Frontend Developer with 1.7 years of
         experience in creating visually appealing and user-friendly
