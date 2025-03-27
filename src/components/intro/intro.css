@@ -76,19 +76,20 @@
 
 @media screen and (max-width: 480px) {
   .bg {
-    right: -85vw;
-    height: 100vh;
+    right: -20vw;
+    height: 60vh;
   }
 
   .introContent {
     font-size: 8vw;
-    margin-top: 180px;
-    color: rgb(0, 0, 0);
+    margin-top: 210px;
+    color: white;
     text-align: left;
   }
   .hello {
     font-size: 4.5vw;
-    color: black;
+    color: white;
+
     font-weight: 400;
   }
 }

@@ -19,7 +19,7 @@
 
 .skillDesc {
   font-weight: 400;
-  font-size: 1rem;
+  font-size: 1.3rem;
   max-width: 50rem;
   padding: 0 1rem;
 }
@@ -63,13 +63,13 @@
 
 @media screen and (max-width: 480px) {
   .skillBarText > p {
-    font-size: 3vw;
+    font-size: 3.4vw;
   }
 
   .introTextpara {
-    font-size: 4vw;
+    font-size: 4.2vw;
     padding: 10px;
-    text-align: center;
+    text-align: left;
   }
   .skillBarImg {
     height: 2.25rem;

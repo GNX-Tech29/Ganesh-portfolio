@@ -56,7 +56,7 @@
 
 @media screen and (max-width: 480px) {
   .expercienceBarText > p {
-    font-size: 3vw;
+    font-size: 3.5vw;
   }
   .expercienceBarImg {
     height: 2.25rem;
