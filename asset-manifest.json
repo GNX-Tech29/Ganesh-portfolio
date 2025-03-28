@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ganesh-portfolio/static/css/main.bddce821.css",
-    "main.js": "/Ganesh-portfolio/static/js/main.78bcad73.js",
+    "main.css": "/Ganesh-portfolio/static/css/main.19510dea.css",
+    "main.js": "/Ganesh-portfolio/static/js/main.a3cce7f2.js",
     "static/media/computer_vision.jpeg": "/Ganesh-portfolio/static/media/computer_vision.97121622d8d2eed25544.jpeg",
     "static/media/object_detection.jpeg": "/Ganesh-portfolio/static/media/object_detection.47b14d21f3ce5f87c036.jpeg",
     "static/media/Database_Admistration.jpeg": "/Ganesh-portfolio/static/media/Database_Admistration.b16f12e133bfbf8192f8.jpeg",
@@ -18,11 +18,11 @@
     "static/media/js.png": "/Ganesh-portfolio/static/media/js.3dfb665e058d08c99f28.png",
     "static/media/React.png": "/Ganesh-portfolio/static/media/React.98ff38735baa4c1b0381.png",
     "index.html": "/Ganesh-portfolio/index.html",
-    "main.bddce821.css.map": "/Ganesh-portfolio/static/css/main.bddce821.css.map",
-    "main.78bcad73.js.map": "/Ganesh-portfolio/static/js/main.78bcad73.js.map"
+    "main.19510dea.css.map": "/Ganesh-portfolio/static/css/main.19510dea.css.map",
+    "main.a3cce7f2.js.map": "/Ganesh-portfolio/static/js/main.a3cce7f2.js.map"
   },
   "entrypoints": [
-    "static/css/main.bddce821.css",
-    "static/js/main.78bcad73.js"
+    "static/css/main.19510dea.css",
+    "static/js/main.a3cce7f2.js"
   ]
 }
