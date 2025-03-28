@@ -77,12 +77,12 @@
 @media screen and (max-width: 480px) {
   .bg {
     right: -20vw;
-    height: 60vh;
+    height: 50vh;
   }
 
   .introContent {
     font-size: 8vw;
-    margin-top: 210px;
+    margin-top: 220px;
     color: white;
     text-align: left;
   }

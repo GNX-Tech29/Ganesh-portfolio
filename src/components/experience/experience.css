@@ -36,7 +36,7 @@
   object-fit: cover;
   height: 3rem;
   width: 3rem;
-  margin-right: 2rem;
+  margin-right: 1rem;
 }
 
 .skillBarImg:hover {
@@ -54,7 +54,41 @@
   }
 }
 
-@media screen and (max-width: 480px) {
+@media (max-width: 480px) {
+  .expercienceBar {
+    display: flex;
+    flex-direction: column; /* Stack the image and text vertically */
+    align-items: center; /* Center align content horizontally */
+    justify-content: center; /* Center align content vertically if needed */
+    text-align: center; /* Center text within the text div */
+  }
+
+  .expercienceBarImg {
+    width: 50px; /* Make image responsive */
+    height: 50px;
+    max-width: 200px; /* Optional: limit the maximum width of the image */
+    margin-bottom: 1rem; /* Space between image and text */
+  }
+
+  .expercienceBarText {
+    width: 90%; /* Adjust text width to make it responsive */
+    padding: 0 10px; /* Optional padding for better readability */
+  }
+
+  .expercienceBar h2,
+  .expercienceBar h4,
+  .expercienceBar h5,
+  .expercienceBar p {
+    margin: 0.5rem 0; /* Space out the text elements */
+  }
+
+  .expercienceBar p {
+    font-size: 1rem;
+    text-align: left;
+  }
+}
+
+/* @media screen and (max-width: 480px) {
   .expercienceBarText > p {
     font-size: 3.5vw;
   }
@@ -65,4 +99,4 @@
   .expercienceBarText > h2 {
     font-size: 5vw;
   }
-}
+} */

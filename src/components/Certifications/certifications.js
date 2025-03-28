@@ -47,29 +47,29 @@ const Certifications = () => {
         className="mySwiper"
       >
         <SwiperSlide>
-          <img src={JavascriptImg} alt="MTA Database" className="worksImg" />
+          <img src={JavascriptImg} alt="MTA Database" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={ReactImg} alt="React" className="worksImg" />
+          <img src={ReactImg} alt="React" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={Database} alt="MTA Database" className="worksImg" />
+          <img src={Database} alt="MTA Database" />
         </SwiperSlide>
 
         <SwiperSlide>
-          <img src={objectDetection} alt="MTA Database" className="worksImg" />
+          <img src={objectDetection} alt="MTA Database" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={AzureImg} alt="MTA Database" className="worksImg" />
+          <img src={AzureImg} alt="MTA Database" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={Vision} alt="Computer Vision" className="worksImg" />
+          <img src={Vision} alt="Computer Vision" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={AiMl} alt="MTA Database" className="worksImg" />
+          <img src={AiMl} alt="MTA Database" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={photoshop} alt="MTA Database" className="worksImg" />
+          <img src={photoshop} alt="MTA Database" />
         </SwiperSlide>
 
         <div className="autoplay-progress" slot="container-end">
